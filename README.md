@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Moaz Irfan!
+### Hi there 👋, NTMY!
 Check out my [`personal website`](https://moazirfan.com) to discover some cool stuff about me.
 
 <!--
