@@ -1,4 +1,4 @@
-### 👋 Hi there!
+### Hi there 👋, I'm Moaz Irfan!
 Check out my [`personal website`](https://moazirfan.com) to discover some cool stuff about me.
 
 <!--
