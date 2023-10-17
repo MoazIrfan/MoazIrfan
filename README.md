@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Moaz Irfan!
 Check out my [`personal website`](https://moazirfan.com) to discover some cool stuff about me.
 
+![](https://komarev.com/ghpvc/?username=moazirfan&color=blueviolet&label=Profile+Views)
 <!--
 **MoazIrfan/MoazIrfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
