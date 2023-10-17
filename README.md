@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Moaz Irfan!
 Check out my [`personal website`](https://moazirfan.com) to discover some cool stuff about me.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazirfan)](https://github.com/moazirfan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazirfan&layout=compact)](https://github.com/moazirfan/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=moazirfan&color=blueviolet&label=Profile+Views)
 <!--
 **MoazIrfan/MoazIrfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
