@@ -1,10 +1,10 @@
-### Hi, I'm Moaz Irfan!
+### Hi there, I'm Moaz Irfan!
 
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/dark-hr.png#gh-dark-mode-only" alt="hr" />
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-<p>I have authored open-source software tools that are used by thousands of developers worldwide, like my projects <a href="https://github.com/MoazIrfan/react-tailwind-app">react-tailwind-app</a>,​ <a href="https://github.com/MoazIrfan/next-blog-app">next-blog-app</a>, <a href="https://github.com/MoazIrfan/cwc-cli">cwc-cli</a> or specs like the <a href="https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup">NestJS Authentication</a>, and <a href="https://github.com/MoazIrfan/JavaScript-code-snippets">JavaScript Code Snippets </a>Code extension.</p>
+<p>I have authored open-source software tools that are used by thousands of developers worldwide, like my projects <a href="https://github.com/MoazIrfan/react-tailwind-app">react-tailwind-app</a>,​ <a href="https://github.com/MoazIrfan/next-blog-app">next-blog-app</a>, <a href="https://github.com/MoazIrfan/cwc-cli">cwc-cli</a> or specs like the <a href="https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup">NestJS Authentication</a>, and <a href="https://github.com/MoazIrfan/JavaScript-code-snippets">JavaScript Code Snippets</a> Code extension.</p>
 
 Check out my [`personal website`](https://moazirfan.com) to discover some cool stuff about me.
 
