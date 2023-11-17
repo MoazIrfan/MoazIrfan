@@ -1,4 +1,4 @@
-### Hi✨ I am Moaz Irfan
+### 👋 Hi! I am Moaz Irfan
 
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/dark-hr.png#gh-dark-mode-only" alt="hr" />
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/light-hr.png#gh-light-mode-only" alt="hr" />
