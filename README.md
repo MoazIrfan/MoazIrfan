@@ -8,6 +8,10 @@
 
 Love automation. Automate workflows and processes.
 
+Worked on projects for Fortune 100 companies. 
+
+Worked remotely with overseas Scrum team.
+
 Check out my site on https://moazirfan.com to discover some cool stuff about me.
 
 <br>
