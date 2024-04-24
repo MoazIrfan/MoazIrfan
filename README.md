@@ -6,9 +6,9 @@
 
 <p>Authored various open-source software tools that are used by thousands of developers worldwide, like my <a href="https://github.com/MoazIrfan/react-tailwind-app">react-tailwind-app</a>,​ <a href="https://github.com/MoazIrfan/next-blog-app">next-blog-app</a>, <a href="https://github.com/MoazIrfan/cwc-cli">cwc-cli</a> projects or specs like the <a href="https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup">NestJS auth</a>, and code extension <a href="https://github.com/MoazIrfan/JavaScript-code-snippets">JavaScript code snippets</a>.</p>
 
-Love automation and have knack of creating automation tools. Automate workflows and processes.
+As an AI enthusiast, I love using AI and LLMs to boost efficiency. I love automation and have a knack for creating automation tools to automate workflows and processes.
 
-Check out my site on https://moazirfan.com to discover some cool stuff about me.
+Check out my site on https://moazirfan.com to discover some cool stuff about me. And feel free to connect with me on LinkedIn: https://www.linkedin.com/in/moazirfan.
 
 <br>
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/dark-hr.png#gh-dark-mode-only" alt="hr" />
