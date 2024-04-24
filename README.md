@@ -10,7 +10,7 @@ As an AI enthusiast, I love using AI and LLMs to boost efficiency. I love automa
 
 Connect with me on LinkedIn https://linkedin.com/in/moazirfan. 
 
-Check out my site https://moazirfan.com to discover some cool stuff about me.
+Check out my site to discover some cool stuff about me https://moazirfan.com.
 
 <br>
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/dark-hr.png#gh-dark-mode-only" alt="hr" />
