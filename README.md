@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-<p>Authored various open-source software tools that are used by thousands of developers worldwide, like my <a href="https://github.com/MoazIrfan/Any-LLM">Any LLM</a> <a href="https://github.com/MoazIrfan/react-tailwind-app">react-tailwind-app</a>,​ <a href="https://github.com/MoazIrfan/next-blog-app">next-blog-app</a> projects or specs like the <a href="https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup">NestJS auth</a>, and code extension <a href="https://github.com/MoazIrfan/JavaScript-code-snippets">JavaScript code snippets</a>.</p>
+<p>Authored various open-source software tools that are used by thousands of developers worldwide, like my <a href="https://github.com/MoazIrfan/Any-LLM">Any LLM</a> • <a href="https://github.com/MoazIrfan/react-tailwind-app">react-tailwind-app</a> • <a href="https://github.com/MoazIrfan/next-blog-app">next-blog-app</a> projects or specs like the <a href="https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup">NestJS auth</a>, and code extension <a href="https://github.com/MoazIrfan/JavaScript-code-snippets">JavaScript code snippets</a>.</p>
 
 As an AI enthusiast, I love using AI and LLMs to boost efficiency. I love automation and have a knack for creating automation tools to automate workflows and processes.
 
