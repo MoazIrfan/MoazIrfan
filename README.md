@@ -6,7 +6,7 @@
 
 <p>Authored various open-source software tools that are used by thousands of devs, like my <a href="https://github.com/MoazIrfan/Any-LLM">Any LLM</a> • <a href="https://github.com/MoazIrfan/react-tailwind-app">react-tailwind-app</a> • <a href="https://github.com/MoazIrfan/next-blog-app">next-blog-app</a> projects or specs like the <a href="https://github.com/MoazIrfan/NestJS-Authentication-Login-Signup">NestJS auth</a> and code extension <a href="https://github.com/MoazIrfan/JavaScript-code-snippets">JavaScript code snippets</a>.</p>
 
-Being an AI enthusiast, I love using AI and LLMs to boost efficiency. Fan of automation and have a knack for creating automation tools to automate workflows and processes.
+Being an AI enthusiast, I love using AI and LLMs to boost efficiency, a fan of automation and have a knack for creating automation tools to automate workflows and processes.
 
 Connect with me on LinkedIn https://linkedin.com/in/moazirfan. 
 
