@@ -8,9 +8,7 @@
 
 Being an AI enthusiast, I love using AI and LLMs to boost efficiency, a fan of automation and have a knack for creating automation tools to automate workflows and processes.
 
-Connect with me on LinkedIn https://linkedin.com/in/moazirfan. 
-
-Check out my site to discover some cool stuff about me https://moazirfan.com.
+Connect with me on LinkedIn https://linkedin.com/in/moazirfan. Check out my site to discover some cool stuff about me https://moazirfan.com.
 
 <br>
 <img src="https://raw.githubusercontent.com/moazirfan/stuff/master/github/dark-hr.png#gh-dark-mode-only" alt="hr" />
